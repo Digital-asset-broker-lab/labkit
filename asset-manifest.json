@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/labkit/static/css/main.e81a2f5d.css",
-    "main.js": "/labkit/static/js/main.3e358741.js",
-    "static/js/27.1045fd66.chunk.js": "/labkit/static/js/27.1045fd66.chunk.js",
+    "main.css": "/labkit/static/css/main.99853454.css",
+    "main.js": "/labkit/static/js/main.32d5bef9.js",
+    "static/js/787.d17cb6e1.chunk.js": "/labkit/static/js/787.d17cb6e1.chunk.js",
     "static/media/BG-platform.png": "/labkit/static/media/BG-platform.1be6d5cbd5dcc9df3655.png",
     "static/media/BG IMG.jpg": "/labkit/static/media/BG IMG.f19cffb02e7b71c08f0b.jpg",
     "static/media/vodafone-regular.woff": "/labkit/static/media/vodafone-regular.2a3568ee95fc94f466c8.woff",
@@ -18,11 +18,14 @@
     "static/media/SDK.png": "/labkit/static/media/SDK.d61cda182f17c85dc4ad.png",
     "static/media/platform-script.png": "/labkit/static/media/platform-script.8222e95c90cb5435029e.png",
     "static/media/script.png": "/labkit/static/media/script.bd931a8980e6e5fc586b.png",
-    "static/media/arrow_icon.svg": "/labkit/static/media/arrow_icon.ed49968be5a0d774069468522ffa1685.svg",
-    "index.html": "/labkit/index.html"
+    "static/media/arrow_icon.svg": "/labkit/static/media/arrow_icon.748933980ab6c0d9fb856fab43bd41d6.svg",
+    "index.html": "/labkit/index.html",
+    "main.99853454.css.map": "/labkit/static/css/main.99853454.css.map",
+    "main.32d5bef9.js.map": "/labkit/static/js/main.32d5bef9.js.map",
+    "787.d17cb6e1.chunk.js.map": "/labkit/static/js/787.d17cb6e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e81a2f5d.css",
-    "static/js/main.3e358741.js"
+    "static/css/main.99853454.css",
+    "static/js/main.32d5bef9.js"
   ]
 }
